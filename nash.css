@@ -1,0 +1,134 @@
+/* NE TROGAT`!!!  */
+
+body{
+  padding: 0;
+  margin: 0;
+background-color:#caf0f8;
+border: 60px solid #0077b6;
+}
+.iqanatext{
+font-family:courier;
+font-size:50px;
+text-align:center;
+background-color: rgba(1.2, 1.6, 36.9,0.3);
+width:650px;
+}
+
+.maintxt{ 
+  display: flex;
+  justify-content: center;
+}
+.iqanatpng{
+text-align:center;
+}
+
+
+.aaa{
+  background-color: #253861;
+background-color: rgba(1.2, 1.6, 36.9,0.3);
+
+}
+
+.ppp{
+font-family:cursive;
+text-align:center;
+font-size:25px;
+opacity:
+}
+
+.bbb{
+font-family:arial black;
+text-align:center;
+font-family:cursive;
+}
+.kartinki{
+text-align:center;
+margin:60px;
+}
+
+.kartinki > img{
+  height:200px;
+}
+
+.ccc{
+text-align:center;
+font-family:cursive;
+}
+.btw{
+text-align:center;
+font-size:30px
+}
+.iq{
+text-align:center;	
+}
+.fafa{ 
+font-family:cursive;
+text-align:center;
+font-size:25px;
+list-style-type:none;
+background-color: rgba(1.2, 1.6, 36.9,0.3);
+}
+.knopka{
+	width:400px;
+	height: 80px;
+}
+.main2{
+display:flex;
+justify-content:center;
+}
+
+ .knopka{ 
+ 	min-width: 100px;
+  font-family:algerian;
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676d7;
+  color: #fff;
+  padding: 8px 16px;
+  font-size:25px;
+  cursor: pointer;
+}
+
+.knopka:hover {
+  background: #1d49aa;
+}
+
+.knopka:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px #cbd6ee;
+ }
+
+::-webkit-scrollbar {
+    width: 24px; 
+    height: 8px; 
+    background-color: #143861;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #8ecae6;
+    border-radius: 9em;
+    box-shadow: inset 1px 1px 10px #f3faf7;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #253861;
+}
+
+::-webkit-scrollbar-button:vertical:start:decrement {
+    background: linear-gradient(120deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+        linear-gradient(240deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+        linear-gradient(0deg, #02141a 30%, rgba(0, 0, 0, 0) 31%);
+    background-color: #1d49aa;
+}
+
+::-webkit-scrollbar-button:vertical:end:increment {
+    background:
+        linear-gradient(300deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+        linear-gradient(60deg, #02141a 40%, rgba(0, 0, 0, 0) 41%),
+        linear-gradient(180deg, #02141a 30%, rgba(0, 0, 0, 0) 31%);
+    background-color: #1d49aa;
+}
+
+/* NE TROGAT`!!!  */
+
